@@ -25,7 +25,7 @@ public class Test09Controller extends HttpServlet{
 		
 		
 		out.println("<html><head><title>입사지원</title></head><body>");
-		out.println("<h2>"+name+"님 지원이 완료 되었습니다"+"</h2><hr>");
+		out.println("<h2>" + name + "님 지원이 완료 되었습니다"+"</h2><hr>");
 		out.println("<div>지원 내용<br>" + text + "</div></body></html>");
 		
 		

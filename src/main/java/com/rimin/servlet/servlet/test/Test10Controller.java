@@ -43,7 +43,7 @@ public class Test10Controller extends HttpServlet {
 		else {
 			out.println("<div>"+ userMap.get("name") + "님 환영 합니다.</div>");
 		}
-		
+		out.println("</body></html>");
 	}
 	
 }
