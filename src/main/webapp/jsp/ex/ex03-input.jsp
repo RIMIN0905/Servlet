@@ -18,9 +18,9 @@
 			<option>딸기</option>
 		</select>
 		
+		<!--  라디오 버튼 -->
 		
-		
-		
+		<!--  체크박스 -->
 		
 		<button type="submit">입력</button>
 	</form>
