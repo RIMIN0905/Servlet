@@ -26,8 +26,7 @@
 		String what = request.getParameter("what");
 	
 		String resultString = null;
-		
-		
+
 		
 		if(what.equals("date")){
 			resultString = dateString;
